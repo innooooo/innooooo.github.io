@@ -1,0 +1,56 @@
+*{
+    background-color: lightblue;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+}
+.home{
+    margin-right:20px;
+}
+.prices{
+    margin-right:20px;
+}
+.about{
+    margin-right:20px;
+}
+.user{
+    width: 100px;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+.images{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.img1{
+    width: 500px;
+    border-radius: 40px;
+    filter: blur(2px);
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    border-radius: 40px;
+    justify-content: center;
+}
+.submit{
+    background-color: rgb(186, 191, 204);
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.menu{
+    width: 300px;
+    opacity: 90%;
+}
